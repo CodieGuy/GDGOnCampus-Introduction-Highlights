@@ -15,6 +15,8 @@ We value your feedback! Share your thoughts and suggestions:
 - Check out our **sticky notes feedback board** at events.  
 Your input helps us grow and bring you even better experiences!  
 
+<p align="center"> <img src="DSC_7236.jpg" alt="Feedback Introduction" width="227px" /> </p>
+
 ## 🔗 Follow Us  
 Stay connected with us on our socials for updates and upcoming events:  
 👉 [Linktree - GDG OnCampus](https://linktr.ee/gdgoncampus_ssiu)  
